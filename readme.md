@@ -8,6 +8,6 @@ I'm Rihanna (some know me as Shego). I'm an aspiring developer and creator. I en
 
 **I’m currently** :
 
-📖 I’m currently learning: _Django_ and _React_<br>
+📚 Learning: _Django_ and _React_<br>
 
 ⌨️ I’m currently working on: _portofolio projects_<br>
