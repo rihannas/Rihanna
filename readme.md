@@ -1,10 +1,12 @@
-# ❥ Rihanna
+# ❥ Rihanna ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ❀ ˃̵ᴗ˂̵ ✿
 
 **`Digital Artisan (👩‍💻 Developer / 📸 Creator )`**
 
-### I'm Rihanna (some know me as Shego). I'm an aspiring developer and creator. I enjoy exploring and trying new ideas. <br>
+### I'm Rihanna (some know me as Shego). I'm an aspiring developer and creator. I enjoy exploring and trying new ideas. <br> ˗ˏˋ ♡ ˎˊ˗
 
-#### **I’m currently** :
+ʕ•ᴥ•ʔ
+
+**I’m currently** :
 
 📖 I’m currently learning: _Django_ and _React_<br>
 
