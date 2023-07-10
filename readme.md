@@ -1,3 +1,3 @@
 # ❥ Rihanna
 
-**`Digital Artisan (Developer/Creator)`**
+**`Digital Artisan (👩‍💻 Developer / 📸 Creator )`**
