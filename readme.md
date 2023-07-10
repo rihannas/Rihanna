@@ -7,5 +7,5 @@ I'm Rihanna (some know me as Shego). I'm an aspiring developer and creator. I en
 🌱 I’m currently learning Django & React<br>
 🔭 I’m currently working on: <br>
 
-- [ ] portofolio
+- [x] portofolio
 - [ ] projects
