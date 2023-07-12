@@ -10,7 +10,7 @@
 
 📚 Learning:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Django_ and _React_<br>
 
-⌨️ Working on:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _portofolio projects_<br>
+⌨️ Working on:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _portoflio projects_<br>
 
 👥 Looking to start for an internship
 
