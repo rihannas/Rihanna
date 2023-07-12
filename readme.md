@@ -1,7 +1,5 @@
 # -ˏˋ Rihanna ˊˎ
 
-❥ Rihanna ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ ❀ ˃̵ᴗ˂̵ ✿
-
 **`Digital Artisan (👩‍💻 Developer / 📸 Creator )`**
 
 ʕ•ᴥ•ʔ I'm Rihanna (some know me as Shego). I'm an aspiring developer and creator. I enjoy exploring and trying new ideas. <br>
@@ -21,3 +19,5 @@
 📧 How to reach me **`rihanna.contacts@gmail.com`**
 
 📄 Know about my experiences [resume](link)
+
+&#9996;
