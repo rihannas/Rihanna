@@ -20,4 +20,4 @@
 
 📄 Know about my experiences [resume](link)
 
-&#9996;
+&#9996; Fun fact: I use python instagram managment
