@@ -18,7 +18,7 @@ I'm Rihanna (some know me as Shego). I'm an aspiring developer and creator. I en
 
 📧 How to reach me **`rihanna.contacts@gmail.com`**
 
-📄 Know about my experiences [resume](link)
+📄 Know about my experiences [resume](https://github.com/rihannas/rihannas/blob/main/githubresume.pdf)
 
 &#9996; Fun fact: I use python for instagram managment
 
