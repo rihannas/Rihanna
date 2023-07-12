@@ -38,4 +38,4 @@ I'm Rihanna (some know me as Shego). I'm an aspiring developer and creator. I en
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rihannas&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-ʕ•ᴥ•ʔ
+ʕ•ᴥ•ʔ ☆
