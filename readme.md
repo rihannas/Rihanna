@@ -16,7 +16,7 @@
 
 👥 Looking to start for an internship
 
-<br>
+. • ☆ . ° .• °: ° . ☆
 
 📧 How to reach me **`rihanna.contacts@gmail.com`**
 
