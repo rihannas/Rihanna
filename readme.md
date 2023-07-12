@@ -14,12 +14,10 @@
 
 ⌨️ Working on:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _portofolio projects_<br>
 
-👥 Looking to collaborate with a web-app clone
+👥 Looking to start for an internship
 
 ˗ˏˋ ♡ ˎˊ˗
 
-📧 How to reach me **hhhh**
+📧 How to reach me **`rihanna.contacts@gmail.com`**
 
-💬 Ask me about **hhhh**
-
-- 📄 Know about my experiences [hhhh](hhhh)
+- 📄 Know about my experiences [resume](hhhh)
