@@ -6,7 +6,7 @@
 
 ʕ•ᴥ•ʔ I'm Rihanna (some know me as Shego). I'm an aspiring developer and creator. I enjoy exploring and trying new ideas. <br>
 
-˗ˏˋ ♡ ˎˊ˗
+˗ˏˋˎˊ˗˗ˏˋˎˊ˗˗ˏˋˎˊ˗˗ˏˋˎˊ˗
 
 **I’m currently** :
 
@@ -16,8 +16,8 @@
 
 👥 Looking to start for an internship
 
-˗ˏˋ ♡ ˎˊ˗
+˗ˏˋˎˊ˗˗ˏˋˎˊ˗˗ˏˋˎˊ˗˗ˏˋˎˊ˗
 
 📧 How to reach me **`rihanna.contacts@gmail.com`**
 
-- 📄 Know about my experiences [resume](hhhh)
+📄 Know about my experiences [resume](link)
