@@ -8,7 +8,7 @@ I'm Rihana (some know me as Shego). I'm an aspiring developer and creator. I enj
 
 **I’m currently** :
 
-📚 Learning:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Django_ and _React_<br>
+📚 Learning:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nodejs, Redis, Cloud
 
 ⌨️ Working on:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _portoflio projects_<br>
 
