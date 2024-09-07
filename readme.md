@@ -8,15 +8,15 @@ I'm Rihana (some know me as Shego). I'm an aspiring developer and creator. I enj
 
 **I’m currently** :
 
-📚 Learning:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nodejs, Redis, Cloud
+📚 Learning:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nodejs, Redis, Azure
 
-⌨️ Working on:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _portoflio projects_<br>
+⌨️ Working on:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Fiverr clone + Collaborating tool_<br>
 
 👥 Looking to start for an internship
 
 . • ☆ . ° .• °: ° . ☆. • ☆ . ° .• °: ° . ☆
 
-📧 How to reach me **`rihanna.contacts@gmail.com`**
+📧 How to reach me **`rihanaalisaeid@gmail.com`**
 
 📄 Know about my experiences [resume](https://github.com/rihannas/rihannas/blob/main/githubresume.pdf)
 
